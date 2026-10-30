@@ -1,0 +1,21 @@
+{
+  "name": "serega-skills",
+  "version": "0.1.0",
+  "description": "Скиллы AskSerega: фреймворки теории проекта. Каждый скилл пишет артефакт в .theory/.",
+  "author": {
+    "name": "AskSerega",
+    "url": "https://askserega.ru"
+  },
+  "homepage": "https://askserega.ru",
+  "license": "MIT",
+  "keywords": [
+    "engineering",
+    "skills",
+    "architecture",
+    "theory",
+    "data-flow"
+  ],
+  "skills": [
+    "./skills/data-flow-mapping"
+  ]
+}

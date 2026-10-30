@@ -1,0 +1,21 @@
+{
+  "name": "serega-skills",
+  "owner": {
+    "name": "AskSerega",
+    "url": "https://askserega.ru"
+  },
+  "description": "Скиллы AskSerega: фреймворки теории проекта, каждый пишет артефакт в .theory/.",
+  "plugins": [
+    {
+      "name": "serega-skills",
+      "source": "./",
+      "description": "Фреймворки теории проекта. Первый скилл — data-flow-mapping.",
+      "category": "engineering",
+      "keywords": [
+        "architecture",
+        "theory",
+        "data-flow"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+interface:
+  display_name: "Data Flow Mapping"
+  short_description: "Карта жизненного цикла одной сущности в .theory/"
+policy:
+  allow_implicit_invocation: false
