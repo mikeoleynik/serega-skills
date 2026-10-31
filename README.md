@@ -90,5 +90,8 @@ gemini skills install https://github.com/<owner>/serega-skills.git --path skills
 | `/context-mapping` | `.theory/context-mapping/index.md` — связи ограниченных контекстов системы: направление, паттерн, ACL и протекание модели |
 | `/contract-testing` | `.theory/contract-testing/<consumer>-<provider>.md` — контракт пары сервисов: схема, примеры payload и шаблоны тестов |
 | `/conway-mapping` | `.theory/conway-mapping/index.md` — команды, контексты и сервисы системы и шаги выравнивания границ |
+| `/ddd-bounded-contexts` | `.theory/ddd-bounded-contexts/<сервис>.md` — ограниченные контексты сервиса: субдомен, агрегаты, границы и серые зоны; для системы целиком — `index.md` |
+| `/dependency-mapping` | `.theory/dependency-mapping/<сервис-или-модуль>.md` — зависимости одного сервиса или модуля: направление связей и критические узлы |
+| `/event-driven-architecture` | `.theory/event-driven-architecture/<сценарий>.md` — событийная интеграция сценария или ограниченного контекста: события, схемы, гарантии и пилот |
 
 Каталог `.theory/` появляется при первой записи. Его коммитят вместе с репозиторием.

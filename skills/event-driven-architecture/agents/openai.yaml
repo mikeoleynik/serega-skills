@@ -1,0 +1,5 @@
+interface:
+  display_name: "Event-Driven Architecture"
+  short_description: "Событийная интеграция сценария в .theory/"
+policy:
+  allow_implicit_invocation: false
