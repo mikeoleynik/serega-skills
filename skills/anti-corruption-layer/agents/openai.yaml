@@ -1,0 +1,5 @@
+interface:
+  display_name: "Anti-Corruption Layer (ACL)"
+  short_description: "Слой ACL между двумя системами в .theory/"
+policy:
+  allow_implicit_invocation: false
