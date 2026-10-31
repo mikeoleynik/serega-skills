@@ -1,0 +1,5 @@
+interface:
+  display_name: "Refactoring Patterns"
+  short_description: "План рефакторинга модуля в .theory/"
+policy:
+  allow_implicit_invocation: false
