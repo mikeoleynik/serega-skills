@@ -1,0 +1,5 @@
+interface:
+  display_name: "Modular Monolith"
+  short_description: "Границы модулей монолита в .theory/"
+policy:
+  allow_implicit_invocation: false

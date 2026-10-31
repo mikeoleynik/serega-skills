@@ -31,6 +31,9 @@
     "./skills/event-driven-architecture",
     "./skills/event-storming",
     "./skills/evolutionary-architecture",
-    "./skills/hexagonal-architecture"
+    "./skills/hexagonal-architecture",
+    "./skills/modular-monolith",
+    "./skills/refactoring-patterns",
+    "./skills/reference-architecture"
   ]
 }
