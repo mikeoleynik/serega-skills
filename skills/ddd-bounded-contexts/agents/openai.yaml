@@ -1,0 +1,5 @@
+interface:
+  display_name: "Bounded Contexts"
+  short_description: "Ограниченные контексты сервиса в .theory/"
+policy:
+  allow_implicit_invocation: false

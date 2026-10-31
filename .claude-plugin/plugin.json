@@ -25,6 +25,9 @@
     "./skills/characterization-testing",
     "./skills/context-mapping",
     "./skills/contract-testing",
-    "./skills/conway-mapping"
+    "./skills/conway-mapping",
+    "./skills/ddd-bounded-contexts",
+    "./skills/dependency-mapping",
+    "./skills/event-driven-architecture"
   ]
 }
