@@ -1,0 +1,5 @@
+interface:
+  display_name: "Bounded Context Mapping"
+  short_description: "Карта ограниченных контекстов в .theory/"
+policy:
+  allow_implicit_invocation: false

@@ -19,6 +19,9 @@
     "./skills/data-flow-mapping",
     "./skills/adr",
     "./skills/anti-corruption-layer",
-    "./skills/architecture-decision-mapping"
+    "./skills/architecture-decision-mapping",
+    "./skills/bounded-context-mapping",
+    "./skills/c4-model",
+    "./skills/characterization-testing"
   ]
 }
