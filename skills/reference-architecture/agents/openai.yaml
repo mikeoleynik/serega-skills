@@ -1,0 +1,5 @@
+interface:
+  display_name: "Reference Architecture"
+  short_description: "Эталон платформы в .theory/"
+policy:
+  allow_implicit_invocation: false

@@ -96,5 +96,8 @@ gemini skills install https://github.com/<owner>/serega-skills.git --path skills
 | `/event-storming` | `.theory/event-storming/<процесс>.md` — события, команды, агрегаты и узкие места одного процесса |
 | `/evolutionary-architecture` | `.theory/evolutionary-architecture/index.md` — характеристики системы, фитнес-функции, нарушения и первая проверка в CI |
 | `/hexagonal-architecture` | `.theory/hexagonal-architecture/<сервис-или-модуль>.md` — ядро, порты, адаптеры и нарушения границ одного сервиса или модуля |
+| `/modular-monolith` | `.theory/modular-monolith/index.md` — модули одной системы: фасады, запрет сквозных импортов и проверка границ |
+| `/refactoring-patterns` | `.theory/refactoring-patterns/<модуль-или-класс>.md` — план рефакторинга одного модуля или класса: запах, приёмы, метрики и код до и после |
+| `/reference-architecture` | `.theory/reference-architecture/index.md` — эталон одной организации или платформы: слои, соответствие сервиса и проверяемые правила |
 
 Каталог `.theory/` появляется при первой записи. Его коммитят вместе с репозиторием.
