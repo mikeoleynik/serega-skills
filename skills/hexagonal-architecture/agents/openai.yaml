@@ -1,0 +1,5 @@
+interface:
+  display_name: "Hexagonal Architecture"
+  short_description: "Порты и адаптеры модуля в .theory/"
+policy:
+  allow_implicit_invocation: false

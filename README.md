@@ -93,5 +93,8 @@ gemini skills install https://github.com/<owner>/serega-skills.git --path skills
 | `/ddd-bounded-contexts` | `.theory/ddd-bounded-contexts/<сервис>.md` — ограниченные контексты сервиса: субдомен, агрегаты, границы и серые зоны; для системы целиком — `index.md` |
 | `/dependency-mapping` | `.theory/dependency-mapping/<сервис-или-модуль>.md` — зависимости одного сервиса или модуля: направление связей и критические узлы |
 | `/event-driven-architecture` | `.theory/event-driven-architecture/<сценарий>.md` — событийная интеграция сценария или ограниченного контекста: события, схемы, гарантии и пилот |
+| `/event-storming` | `.theory/event-storming/<процесс>.md` — события, команды, агрегаты и узкие места одного процесса |
+| `/evolutionary-architecture` | `.theory/evolutionary-architecture/index.md` — характеристики системы, фитнес-функции, нарушения и первая проверка в CI |
+| `/hexagonal-architecture` | `.theory/hexagonal-architecture/<сервис-или-модуль>.md` — ядро, порты, адаптеры и нарушения границ одного сервиса или модуля |
 
 Каталог `.theory/` появляется при первой записи. Его коммитят вместе с репозиторием.
