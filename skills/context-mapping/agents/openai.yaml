@@ -1,0 +1,5 @@
+interface:
+  display_name: "Context Mapping"
+  short_description: "Карта связей контекстов в .theory/"
+policy:
+  allow_implicit_invocation: false

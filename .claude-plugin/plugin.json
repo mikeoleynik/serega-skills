@@ -22,6 +22,9 @@
     "./skills/architecture-decision-mapping",
     "./skills/bounded-context-mapping",
     "./skills/c4-model",
-    "./skills/characterization-testing"
+    "./skills/characterization-testing",
+    "./skills/context-mapping",
+    "./skills/contract-testing",
+    "./skills/conway-mapping"
   ]
 }
