@@ -1,0 +1,5 @@
+interface:
+  display_name: "C4 Model"
+  short_description: "Модель C4 системы в .theory/"
+policy:
+  allow_implicit_invocation: false
