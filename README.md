@@ -84,5 +84,8 @@ gemini skills install https://github.com/<owner>/serega-skills.git --path skills
 | `/adr` | `.theory/adr/<решение>.md` — одно принятое решение: контекст, варианты, выбор и последствия |
 | `/anti-corruption-layer` | `.theory/anti-corruption-layer/<сервис>-<внешняя-система>.md` — перевод между своим сервисом и внешней системой: модели, маппинг, порты |
 | `/architecture-decision-mapping` | `.theory/architecture-decision-mapping/index.md` — хронология решений системы: триггеры, замены, фитнес-функции, слепые зоны |
+| `/bounded-context-mapping` | `.theory/bounded-context-mapping/index.md` — карта ограниченных контекстов системы или домена: зоны смысла, связи, конфликты терминов |
+| `/c4-model` | `.theory/c4-model/index.md` — модель C4 системы: контекст, контейнеры, компоненты одного контейнера, код критического места |
+| `/characterization-testing` | `.theory/characterization-testing/<модуль>.md` — текущее поведение модуля или endpoint и код характеризационных тестов |
 
 Каталог `.theory/` появляется при первой записи. Его коммитят вместе с репозиторием.

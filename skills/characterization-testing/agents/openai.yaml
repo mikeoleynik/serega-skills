@@ -1,0 +1,5 @@
+interface:
+  display_name: "Characterization Testing"
+  short_description: "Текущее поведение модуля в .theory/"
+policy:
+  allow_implicit_invocation: false
