@@ -1,0 +1,5 @@
+interface:
+  display_name: "Contract Testing"
+  short_description: "Контракт пары сервисов в .theory/"
+policy:
+  allow_implicit_invocation: false
