@@ -1,0 +1,5 @@
+interface:
+  display_name: "Evolutionary Architecture"
+  short_description: "Фитнес-функции системы в .theory/"
+policy:
+  allow_implicit_invocation: false
