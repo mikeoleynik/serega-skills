@@ -1,0 +1,5 @@
+interface:
+  display_name: "Dependency Mapping"
+  short_description: "Карта зависимостей сервиса в .theory/"
+policy:
+  allow_implicit_invocation: false
