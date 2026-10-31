@@ -1,0 +1,5 @@
+interface:
+  display_name: "Conway Mapping"
+  short_description: "Карта команд и границ в .theory/"
+policy:
+  allow_implicit_invocation: false
