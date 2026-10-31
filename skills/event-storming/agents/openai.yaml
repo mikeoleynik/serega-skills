@@ -1,0 +1,5 @@
+interface:
+  display_name: "Event Storming"
+  short_description: "Модель процесса в .theory/"
+policy:
+  allow_implicit_invocation: false

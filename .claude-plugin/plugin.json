@@ -28,6 +28,9 @@
     "./skills/conway-mapping",
     "./skills/ddd-bounded-contexts",
     "./skills/dependency-mapping",
-    "./skills/event-driven-architecture"
+    "./skills/event-driven-architecture",
+    "./skills/event-storming",
+    "./skills/evolutionary-architecture",
+    "./skills/hexagonal-architecture"
   ]
 }
