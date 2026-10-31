@@ -81,5 +81,8 @@ gemini skills install https://github.com/<owner>/serega-skills.git --path skills
 | Команда | Что пишет |
 | --- | --- |
 | `/data-flow-mapping` | `.theory/data-flow-mapping/<сущность>.md` — маршрут одной сущности: первоисточник, копии, события, побочные эффекты |
+| `/adr` | `.theory/adr/<решение>.md` — одно принятое решение: контекст, варианты, выбор и последствия |
+| `/anti-corruption-layer` | `.theory/anti-corruption-layer/<сервис>-<внешняя-система>.md` — перевод между своим сервисом и внешней системой: модели, маппинг, порты |
+| `/architecture-decision-mapping` | `.theory/architecture-decision-mapping/index.md` — хронология решений системы: триггеры, замены, фитнес-функции, слепые зоны |
 
 Каталог `.theory/` появляется при первой записи. Его коммитят вместе с репозиторием.

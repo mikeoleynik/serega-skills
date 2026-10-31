@@ -1,0 +1,5 @@
+interface:
+  display_name: "Architecture Decision Mapping"
+  short_description: "Хронология решений системы в .theory/"
+policy:
+  allow_implicit_invocation: false
