@@ -1,0 +1,5 @@
+interface:
+  display_name: "Architecture Decision Records (ADR)"
+  short_description: "ADR одного решения в .theory/"
+policy:
+  allow_implicit_invocation: false

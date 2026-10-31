@@ -16,6 +16,9 @@
     "data-flow"
   ],
   "skills": [
-    "./skills/data-flow-mapping"
+    "./skills/data-flow-mapping",
+    "./skills/adr",
+    "./skills/anti-corruption-layer",
+    "./skills/architecture-decision-mapping"
   ]
 }
