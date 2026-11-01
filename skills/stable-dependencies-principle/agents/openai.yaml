@@ -1,0 +1,5 @@
+interface:
+  display_name: "Stable Dependencies Principle"
+  short_description: "Нестабильность модулей в .theory/"
+policy:
+  allow_implicit_invocation: false
