@@ -1,0 +1,5 @@
+interface:
+  display_name: "Responsibility Mapping"
+  short_description: "Карта ответственности в .theory/"
+policy:
+  allow_implicit_invocation: false

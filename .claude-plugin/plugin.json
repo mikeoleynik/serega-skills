@@ -34,6 +34,9 @@
     "./skills/hexagonal-architecture",
     "./skills/modular-monolith",
     "./skills/refactoring-patterns",
-    "./skills/reference-architecture"
+    "./skills/reference-architecture",
+    "./skills/responsibility-mapping",
+    "./skills/rfc-process",
+    "./skills/runtime-flow-mapping"
   ]
 }
