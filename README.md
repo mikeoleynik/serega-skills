@@ -102,5 +102,8 @@ gemini skills install https://github.com/<owner>/serega-skills.git --path skills
 | `/responsibility-mapping` | `.theory/responsibility-mapping/index.md` — карта ответственности системы: обязанности, владельцы и сиротские функции; для одного сервиса — `<сервис>.md` |
 | `/rfc-process` | `.theory/rfc-process/<кейс>.md` — RFC одного изменения: критерии, жизненный цикл и заполненный документ. PR и исходники не трогает |
 | `/runtime-flow-mapping` | `.theory/runtime-flow-mapping/<сценарий>.md` — путь одного сценария: шаги, транспорт, состояние и точки отказа |
+| `/sequence-diagrams` | `.theory/sequence-diagrams/<сценарий>.md` — порядок сообщений одного сценария: участники, стрелки и граничные случаи |
+| `/stable-dependencies-principle` | `.theory/stable-dependencies-principle/index.md` — нестабильность модулей системы и нарушения SDP; для одного модуля — `<модуль>.md` |
+| `/strangler-fig-pattern` | `.theory/strangler-fig-pattern/<домен>.md` — план выделения домена из монолита. Имя монолита в заголовке. Исходники, фасад и PR не трогает |
 
 Каталог `.theory/` появляется при первой записи. Его коммитят вместе с репозиторием.

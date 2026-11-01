@@ -1,0 +1,5 @@
+interface:
+  display_name: "Strangler Fig Pattern"
+  short_description: "План замены монолита в .theory/"
+policy:
+  allow_implicit_invocation: false
