@@ -1,0 +1,5 @@
+interface:
+  display_name: "Sequence Diagrams"
+  short_description: "Диаграмма одного сценария в .theory/"
+policy:
+  allow_implicit_invocation: false

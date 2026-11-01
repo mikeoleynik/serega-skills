@@ -37,6 +37,9 @@
     "./skills/reference-architecture",
     "./skills/responsibility-mapping",
     "./skills/rfc-process",
-    "./skills/runtime-flow-mapping"
+    "./skills/runtime-flow-mapping",
+    "./skills/sequence-diagrams",
+    "./skills/stable-dependencies-principle",
+    "./skills/strangler-fig-pattern"
   ]
 }
