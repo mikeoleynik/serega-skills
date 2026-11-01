@@ -1,0 +1,5 @@
+interface:
+  display_name: "Runtime Flow Mapping"
+  short_description: "Поток одного сценария в .theory/"
+policy:
+  allow_implicit_invocation: false

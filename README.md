@@ -99,5 +99,8 @@ gemini skills install https://github.com/<owner>/serega-skills.git --path skills
 | `/modular-monolith` | `.theory/modular-monolith/index.md` — модули одной системы: фасады, запрет сквозных импортов и проверка границ |
 | `/refactoring-patterns` | `.theory/refactoring-patterns/<модуль-или-класс>.md` — план рефакторинга одного модуля или класса: запах, приёмы, метрики и код до и после |
 | `/reference-architecture` | `.theory/reference-architecture/index.md` — эталон одной организации или платформы: слои, соответствие сервиса и проверяемые правила |
+| `/responsibility-mapping` | `.theory/responsibility-mapping/index.md` — карта ответственности системы: обязанности, владельцы и сиротские функции; для одного сервиса — `<сервис>.md` |
+| `/rfc-process` | `.theory/rfc-process/<кейс>.md` — RFC одного изменения: критерии, жизненный цикл и заполненный документ. PR и исходники не трогает |
+| `/runtime-flow-mapping` | `.theory/runtime-flow-mapping/<сценарий>.md` — путь одного сценария: шаги, транспорт, состояние и точки отказа |
 
 Каталог `.theory/` появляется при первой записи. Его коммитят вместе с репозиторием.
