@@ -1,0 +1,5 @@
+interface:
+  display_name: "Theory Graph"
+  short_description: "Граф знаний проекта в .theory/"
+policy:
+  allow_implicit_invocation: false
