@@ -1,0 +1,5 @@
+interface:
+  display_name: "System Quality Attributes"
+  short_description: "Приоритеты атрибутов в .theory/"
+policy:
+  allow_implicit_invocation: false
