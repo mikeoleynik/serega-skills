@@ -1,0 +1,5 @@
+interface:
+  display_name: "System Theory Anchor"
+  short_description: "Аксиомы системы в .theory/"
+policy:
+  allow_implicit_invocation: false

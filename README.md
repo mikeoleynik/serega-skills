@@ -105,5 +105,8 @@ gemini skills install https://github.com/<owner>/serega-skills.git --path skills
 | `/sequence-diagrams` | `.theory/sequence-diagrams/<сценарий>.md` — порядок сообщений одного сценария: участники, стрелки и граничные случаи |
 | `/stable-dependencies-principle` | `.theory/stable-dependencies-principle/index.md` — нестабильность модулей системы и нарушения SDP; для одного модуля — `<модуль>.md` |
 | `/strangler-fig-pattern` | `.theory/strangler-fig-pattern/<домен>.md` — план выделения домена из монолита. Имя монолита в заголовке. Исходники, фасад и PR не трогает |
+| `/system-context-mapping` | `.theory/system-context-mapping/<сервис>.md` — сервис как чёрный ящик: акторы, внешние системы и потоки |
+| `/system-quality-attributes` | `.theory/system-quality-attributes/index.md` — приоритеты quality attributes системы, конфликтующие пары и анти-цели |
+| `/system-theory-anchor` | `.theory/system-theory-anchor/index.md` — аксиомы системы: инвариант, боль и запреты на ревью |
 
 Каталог `.theory/` появляется при первой записи. Его коммитят вместе с репозиторием.
