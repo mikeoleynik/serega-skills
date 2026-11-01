@@ -1,0 +1,5 @@
+interface:
+  display_name: "RFC Process"
+  short_description: "RFC одного изменения в .theory/"
+policy:
+  allow_implicit_invocation: false
