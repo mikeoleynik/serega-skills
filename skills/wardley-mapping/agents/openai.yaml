@@ -1,0 +1,5 @@
+interface:
+  display_name: "Wardley Mapping"
+  short_description: "Карта эволюции системы в .theory/"
+policy:
+  allow_implicit_invocation: false
