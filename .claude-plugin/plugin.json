@@ -46,6 +46,9 @@
     "./skills/system-theory-anchor",
     "./skills/team-topologies",
     "./skills/theory-graph",
-    "./skills/ubiquitous-language"
+    "./skills/ubiquitous-language",
+    "./skills/uml-basics",
+    "./skills/wardley-mapping",
+    "./skills/zachman-framework"
   ]
 }

@@ -1,0 +1,5 @@
+interface:
+  display_name: "UML Basics"
+  short_description: "Три диаграммы модуля в .theory/"
+policy:
+  allow_implicit_invocation: false
