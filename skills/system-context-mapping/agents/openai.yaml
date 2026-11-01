@@ -1,0 +1,5 @@
+interface:
+  display_name: "System Context Mapping"
+  short_description: "Контекст сервиса в .theory/"
+policy:
+  allow_implicit_invocation: false

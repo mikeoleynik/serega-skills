@@ -40,6 +40,9 @@
     "./skills/runtime-flow-mapping",
     "./skills/sequence-diagrams",
     "./skills/stable-dependencies-principle",
-    "./skills/strangler-fig-pattern"
+    "./skills/strangler-fig-pattern",
+    "./skills/system-context-mapping",
+    "./skills/system-quality-attributes",
+    "./skills/system-theory-anchor"
   ]
 }
