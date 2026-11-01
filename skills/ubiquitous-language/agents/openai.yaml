@@ -1,0 +1,5 @@
+interface:
+  display_name: "Ubiquitous Language"
+  short_description: "Словарь домена в .theory/"
+policy:
+  allow_implicit_invocation: false

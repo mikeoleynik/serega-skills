@@ -108,5 +108,8 @@ gemini skills install https://github.com/<owner>/serega-skills.git --path skills
 | `/system-context-mapping` | `.theory/system-context-mapping/<сервис>.md` — сервис как чёрный ящик: акторы, внешние системы и потоки |
 | `/system-quality-attributes` | `.theory/system-quality-attributes/index.md` — приоритеты quality attributes системы, конфликтующие пары и анти-цели |
 | `/system-theory-anchor` | `.theory/system-theory-anchor/index.md` — аксиомы системы: инвариант, боль и запреты на ревью |
+| `/team-topologies` | `.theory/team-topologies/index.md` — типы команд, владение сервисами и режимы взаимодействия организации или платформы |
+| `/theory-graph` | `.theory/theory-graph/index.md` — граф документов проекта: связи, слепые зоны и что создать; для одного сервиса — `<сервис>.md` |
+| `/ubiquitous-language` | `.theory/ubiquitous-language/<домен-или-сервис>.md` — термины домена, запрещённые синонимы и имена в коде |
 
 Каталог `.theory/` появляется при первой записи. Его коммитят вместе с репозиторием.
