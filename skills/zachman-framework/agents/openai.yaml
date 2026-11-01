@@ -1,0 +1,5 @@
+interface:
+  display_name: "Zachman Framework"
+  short_description: "Матрица 6×6 системы в .theory/"
+policy:
+  allow_implicit_invocation: false

@@ -111,5 +111,8 @@ gemini skills install https://github.com/<owner>/serega-skills.git --path skills
 | `/team-topologies` | `.theory/team-topologies/index.md` — типы команд, владение сервисами и режимы взаимодействия организации или платформы |
 | `/theory-graph` | `.theory/theory-graph/index.md` — граф документов проекта: связи, слепые зоны и что создать; для одного сервиса — `<сервис>.md` |
 | `/ubiquitous-language` | `.theory/ubiquitous-language/<домен-или-сервис>.md` — термины домена, запрещённые синонимы и имена в коде |
+| `/uml-basics` | `.theory/uml-basics/<модуль>.md` — классы, последовательность сценария и деятельность процесса одного модуля |
+| `/wardley-mapping` | `.theory/wardley-mapping/index.md` — стадии эволюции компонентов системы, зависимости и три шага |
+| `/zachman-framework` | `.theory/zachman-framework/index.md` — матрица 6×6 системы: шесть вопросов на шести уровнях |
 
 Каталог `.theory/` появляется при первой записи. Его коммитят вместе с репозиторием.
