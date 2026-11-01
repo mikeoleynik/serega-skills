@@ -1,0 +1,5 @@
+interface:
+  display_name: "Team Topologies"
+  short_description: "Топология команд в .theory/"
+policy:
+  allow_implicit_invocation: false

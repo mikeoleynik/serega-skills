@@ -43,6 +43,9 @@
     "./skills/strangler-fig-pattern",
     "./skills/system-context-mapping",
     "./skills/system-quality-attributes",
-    "./skills/system-theory-anchor"
+    "./skills/system-theory-anchor",
+    "./skills/team-topologies",
+    "./skills/theory-graph",
+    "./skills/ubiquitous-language"
   ]
 }
